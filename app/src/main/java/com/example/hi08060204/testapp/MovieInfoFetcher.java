@@ -13,9 +13,6 @@ import okhttp3.OkHttpClient;
 import okhttp3.Request;
 import okhttp3.Response;
 
-/**
- * Created by hi08060204 on 2017/11/6.
- */
 public class MovieInfoFetcher {
 
     public static final String REST_API_URL = "https://slack.com/api/users.list";
